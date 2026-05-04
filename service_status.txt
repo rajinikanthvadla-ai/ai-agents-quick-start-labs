@@ -1,0 +1,7 @@
+service_name=checkout-service
+status=degraded
+cpu=45%
+memory=60%
+error_rate=18%
+latency=2400ms
+last_deployment=10 minutes ago

@@ -1,0 +1,6 @@
+service_name=checkout-service
+version=v2.8.4
+deployed_by=github-actions
+deployment_time=2026-05-04 09:55:00
+change_summary=updated payment-service database retry timeout
+rollback_available=true

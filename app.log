@@ -1,0 +1,8 @@
+2026-05-04 10:00:01 INFO checkout-service started
+2026-05-04 10:01:11 INFO payment-service connection initialized
+2026-05-04 10:03:22 WARN database response time high: 1800ms
+2026-05-04 10:04:10 ERROR payment-service timeout while connecting to database
+2026-05-04 10:04:15 ERROR checkout failed for order_id=9845 reason=db_timeout
+2026-05-04 10:05:01 ERROR checkout failed for order_id=9846 reason=db_timeout
+2026-05-04 10:06:44 WARN retry count increased for payment-service
+2026-05-04 10:07:33 ERROR payment-service failed after 3 retries
